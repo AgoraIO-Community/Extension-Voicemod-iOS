@@ -1,14 +1,15 @@
-# Voicemod Voice Changer
+# Voicemod Voice Changer (iOS)
 
 > An extension for Agora
 
 <p align="center">
-  <img src="https://github.com/maxxfrazer/Voicemod-swiftpm/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
+  <img src="https://github.com/AgoraIO-Community/Extension-Voicemod-iOS/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://agora-ticket.oss-cn-shanghai.aliyuncs.com/dashboard/marketplace/d09161ab.jpg?OSSAccessKeyId=LTAIlIYu0PfwhIZL&Expires=1633682877&Signature=ihYkLKbFM9WlFlfdJrs2PCpJJNg%3D"/>
+  <img src="media/voicemod-banner.jpg"/>
 </p>
+
 
 Voicemod Voice Changer extension brings the power of Voicemod's voice changer technology into any Agora app. With this extension, you can give your users the ability to transform their voice in real time while they stream audio or video.
 
@@ -16,8 +17,9 @@ Voicemod Voice Changer extension brings the power of Voicemod's voice changer te
 
 ## Installation
 
-Add the URL of this repository to your Xcode 11+ Project.
+Add the URL of this repository to your Xcode 12+ Project.
 
 Go to _File > Swift Packages > Add Package Dependency_, and paste in the link to this repository:
 
-`https://github.com/maxxfrazer/Voicemod-swiftpm.git`
+`https://github.com/AgoraIO-Community/Extension-Voicemod-iOS.git`
+
