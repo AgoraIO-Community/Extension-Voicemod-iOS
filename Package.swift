@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VoicemodAudioFilterExtension",
-            url: "https://github.com/AgoraIO-Community/Extension-Voicemod-iOS/releases/download/0.2.1/VoicemodAudioFilterExtension.xcframework.zip",
-            checksum: "c9de2778305ce118621b23841ecb19141508ff2731fb02651549df4ab27e2376"
+            url: "https://github.com/AgoraIO-Community/Extension-Voicemod-iOS/releases/download/0.3.0/VoicemodAudioFilterExtension.xcframework.zip",
+            checksum: "bd7cfab91e0678313e782eed6c27c2045e67cb16c2b7602252a53136e7766641"
         )
     ]
 )
