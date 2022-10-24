@@ -13,7 +13,7 @@
 
 Voicemod Voice Changer extension brings the power of Voicemod's voice changer technology into any Agora app. With this extension, you can give your users the ability to transform their voice in real time while they stream audio or video.
 
-[Click here for full documentation](https://console-preprod-2.agora.io/marketplace/extension/introduce?serviceName=voicemod).
+[Click here for full details](https://www.agora.io/en/agora-extensions-marketplace/voicemod-voice-changer/).
 
 ## Installation
 
